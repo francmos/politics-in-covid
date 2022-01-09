@@ -1,0 +1,44 @@
+location,iso_code,corruption_control
+Australia,AUS,1.825413
+Austria,AUT,1.557738
+Belgium,BEL,1.485347
+Brazil,BRA,-0.3365895
+Canada,CAN,1.767164
+Chile,CHL,1.066971
+China,CHN,-0.2951186
+Colombia,COL,-0.2363339
+Costa Rica,CRI,0.7027699
+Czech Republic,CZE,0.5652813
+Denmark,DNK,2.161119
+Estonia,EST,1.561715
+Finland,FIN,2.1532
+France,FRA,1.283251
+Germany,DEU,1.903284
+Greece,GRC,0.0431178
+Hungary,HUN,0.0600961
+Iceland,ISL,1.708176
+India,IND,-0.2540472
+Indonesia,IDN,-0.4160329
+Ireland,IRL,1.494599
+Israel,ISR,0.8063501
+Italy,ITA,0.2645699
+Japan,JPN,1.4672
+"Korea, Rep.",KOR,0.7374385
+Latvia,LVA,0.5117261
+Lithuania,LTU,0.6983815
+Luxembourg,LUX,2.112312
+Mexico,MEX,-0.8269345
+Netherlands,NLD,1.906103
+New Zealand,NZL,2.170174
+Norway,NOR,2.073593
+Poland,POL,0.6421292
+Portugal,PRT,0.7784246
+Slovak Republic,SVK,0.2180149
+Slovenia,SVN,0.9221385
+South Africa,ZAF,0.0729309
+Spain,ESP,0.6989556
+Sweden,SWE,2.13129
+Switzerland,CHE,1.983491
+Turkey,TUR,-0.3082614
+United Kingdom,GBR,1.785975
+United States,USA,1.215634

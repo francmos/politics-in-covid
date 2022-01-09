@@ -1,0 +1,44 @@
+location,iso_code,government_type
+Denmark,DNK,1 
+New Zealand,NZL,1
+Finland,FIN,2
+Sweden,SWE,1
+Switzerland,CHE,3
+Norway,NOR,1
+Netherlands,NLD,1
+Germany,DEU,2
+Luxembourg,LUX,1
+Iceland,ISL,2
+Australia,AUS,1
+Austria,AUT,2
+Canada,CAN,1
+United Kingdom,GBR,1
+Belgium,BEL,1
+Estonia,EST,2
+Ireland,IRL,2
+Japan,JPN,1
+France,FRA,4
+United States of America,USA,5
+Chile,CHL,5
+Portugal,PRT,4
+Spain,ESP,1
+Israel,ISR,2
+Lithuania,LTU,4
+Slovenia,SVN,2
+"Korea, South",KOR,4
+Poland,POL,4
+Costa Rica,CRI,5
+Czech Republic,CZE,2
+Latvia,LVA,4
+Italy,ITA,2
+Slovakia,SVK,2
+Greece,GRC,2
+Hungary,HUN,2
+South Africa,ZAF,6
+China,CHN,7
+India,IND,2
+Indonesia,IDN,5
+Turkey,TUR,5
+Colombia,COL,5
+Brazil,BRA,5
+Mexico,MEX,5
