@@ -4,4 +4,4 @@
 *Source*: **World Bank Data**. 
 How to cite this variable: Kaufmann, Daniel, Aart Kraay and Massimo Mastruzzi (2010). "The Worldwide Governance Indicators: Methodology and Analytical Issues". World Bank Policy Research Working Paper No. 5430 (http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1682130).
 
-**TYPE OF VARIABLE**:**Continuous variable**
+**TYPE OF VARIABLE**:**CONTINUOUS VARIABLE**
