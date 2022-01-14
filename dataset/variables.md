@@ -38,7 +38,6 @@ How to cite this variable: OECD (2022), Trust in government (indicator). doi: 10
 **TYPE OF VARIABLE**: **CATEGORICAL VARIABLE**.
 
 - **POPULATION**: Population (latest available values). See https://github.com/owid/covid-19-data/blob/master/scripts/input/un/population_latest.csv for full list of sources.The population estimates we use to calculate per-capita metrics are based on the last revision of the United Nations World Population Prospects. The exact values can be viewed here. In a few cases, we use other sources (see column source in the population file) when the figures provided by the UN differ substantially from reliable and more recent national estimates. Population estimates for a few subnational locations are taken from national reports, and are stored here.
-
 **TYPE OF VARIABLE**:**DISCRETE VARIABLE**
 
 - **POPULATION DENSITY**: Number of people divided by land area, measured in square kilometers, most recent year available.
