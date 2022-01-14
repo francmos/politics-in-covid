@@ -38,7 +38,7 @@ How to cite this variable: OECD (2022), Trust in government (indicator). doi: 10
 **TYPE OF VARIABLE**: **CATEGORICAL VARIABLE**.
 
 - **POPULATION**: Population (latest available values). See https://github.com/owid/covid-19-data/blob/master/scripts/input/un/population_latest.csv for full list of sources.
-**TYPE OF VARIABLE**:** DISCRETE VARIABLE?**.
+**TYPE OF VARIABLE**:**DISCRETE VARIABLE**?
 
 - **POPULATION DENSITY**: Number of people divided by land area, measured in square kilometers, most recent year available.
 **TYPE OF VARIABLE**:**DISCRETE VARIABLE?**:
@@ -62,7 +62,7 @@ _ **NEW CASES**: New confirmed cases of COVID-19
 **TYPE OF VARIABLE: **DISCRETE VARIABLE**.
 
 - **NEW VACCINATIONS**: New COVID-19 vaccination doses administered (only calculated for consecutive days).
-**TYPE OF VARIABLE**: **DISCRETE VARIABLE**.
+**TYPE OF VARIABLE**:**DISCRETE VARIABLE**.
 
 
 
