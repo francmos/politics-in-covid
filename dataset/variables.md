@@ -44,7 +44,7 @@ How to cite this variable: OECD (2022), Trust in government (indicator). doi: 10
 - **POPULATION DENSITY**: Number of people divided by land area, measured in square kilometers, most recent year available.
 **TYPE OF VARIABLE**:**CONTINUOUS VARIABLE?**:
 
-- **MEDIAN AGE**: Median age of the population, UN projection for 2020.
+- **MEDIAN AGE**: Median age of the population, UN projection for 2020. https://population.un.org/wpp/Download/Standard/CSV/
 **TYPE OF VARIABLE**: **DISCRETE VARIABLE**.
 
 - **GDP PER CAPITA**: Gross domestic product at purchasing power parity (constant 2011 international dollars), most recent year available.
