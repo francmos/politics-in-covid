@@ -37,7 +37,33 @@ How to cite this variable: OECD (2022), Trust in government (indicator). doi: 10
 - **GOVERNEMENT TYPE**: divides OECD countries according to different types of government. 7 are the categories: 1) Parliamentary Monarchy; 2) Parliamentary Republic; 3) Directorial Republic; 4) Semi-presidential Republic; 5) Presidential Republic; 6) Mixed Parliamentary Republic; 7) One-party Socialist Republic.
 **TYPE OF VARIABLE**: **CATEGORICAL VARIABLE**.
 
-- **
+- **POPULATION**: Population (latest available values). See https://github.com/owid/covid-19-data/blob/master/scripts/input/un/population_latest.csv for full list of sources.
+**TYPE OF VARIABLE**:** DISCRETE VARIABLE?**.
+
+- **POPULATION DENSITY**: Number of people divided by land area, measured in square kilometers, most recent year available.
+**TYPE OF VARIABLE**:**DISCRETE VARIABLE?**:
+
+- **MEDIAN AGE**: Median age of the population, UN projection for 2020.
+**TYPW OF VARIABLE**: 
+
+- **GDP PER CAPITA**: Gross domestic product at purchasing power parity (constant 2011 international dollars), most recent year available.
+**TYPE OF VARIABLE**: 
+
+_ **NEW CASES**: New confirmed cases of COVID-19
+**TYPE OF VARIABLE**: 
+
+- **NEW DEATHS**: New deaths attributed to COVID-19
+**TYPE OF VARIABLE**:
+
+- **NEW TESTS**: New tests for COVID-19 (only calculated for consecutive days)
+**TYPE OF VARIABLE**: 
+
+- **ICU PATIENTS**: Number of COVID-19 patients in intensive care units (ICUs) on a given day
+**TYPE OF VARIABLE: **DISCRETE VARIABLE**.
+
+- **NEW VACCINATIONS**: New COVID-19 vaccination doses administered (only calculated for consecutive days).
+**TYPE OF VARIABLE**: **DISCRETE VARIABLE**.
+
 
 
 
