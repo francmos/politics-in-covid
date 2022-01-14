@@ -37,7 +37,8 @@ How to cite this variable: OECD (2022), Trust in government (indicator). doi: 10
 - **GOVERNEMENT TYPE**: divides OECD countries according to different types of government. 7 are the categories: 1) Parliamentary Monarchy; 2) Parliamentary Republic; 3) Directorial Republic; 4) Semi-presidential Republic; 5) Presidential Republic; 6) Mixed Parliamentary Republic; 7) One-party Socialist Republic.
 **TYPE OF VARIABLE**: **CATEGORICAL VARIABLE**.
 
-- **POPULATION**: Population (latest available values). See https://github.com/owid/covid-19-data/blob/master/scripts/input/un/population_latest.csv for full list of sources.
+- **POPULATION**: Population (latest available values). See https://github.com/owid/covid-19-data/blob/master/scripts/input/un/population_latest.csv for full list of sources.The population estimates we use to calculate per-capita metrics are based on the last revision of the United Nations World Population Prospects. The exact values can be viewed here. In a few cases, we use other sources (see column source in the population file) when the figures provided by the UN differ substantially from reliable and more recent national estimates. Population estimates for a few subnational locations are taken from national reports, and are stored here.
+
 **TYPE OF VARIABLE**:**DISCRETE VARIABLE**?
 
 - **POPULATION DENSITY**: Number of people divided by land area, measured in square kilometers, most recent year available.
@@ -56,13 +57,24 @@ _ **NEW CASES**: New confirmed cases of COVID-19
 **TYPE OF VARIABLE**:
 
 - **NEW TESTS**: New tests for COVID-19 (only calculated for consecutive days)
+How to cite this variable: Hasell, J., Mathieu, E., Beltekian, D. et al. A cross-country database of COVID-19 testing. Sci Data 7, 345 (2020). https://doi.org/10.1038/s41597-020-00688-8
 **TYPE OF VARIABLE**: 
 
 - **ICU PATIENTS**: Number of COVID-19 patients in intensive care units (ICUs) on a given day
 **TYPE OF VARIABLE: **DISCRETE VARIABLE**.
 
 - **NEW VACCINATIONS**: New COVID-19 vaccination doses administered (only calculated for consecutive days).
+How to cite this variable: Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021). https://doi.org/10.1038/s41562-021-01122-8
 **TYPE OF VARIABLE**:**DISCRETE VARIABLE**.
+
+**AUTHOR OF OUR WOLRD DATA**: This data has been collected, aggregated, and documented by Cameron Appel, Diana Beltekian, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Edouard Mathieu, Esteban Ortiz-Ospina, Hannah Ritchie, Lucas Rodés-Guirao, Max Roser.
+
+Confirmed cases and deaths: our data comes from the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU). We discuss how and when JHU collects and publishes this data here. The cases & deaths dataset is updated daily. Note: the number of cases or deaths reported by any institution—including JHU, the WHO, the ECDC and others—on a given day does not necessarily represent the actual number on that date. This is because of the long reporting chain that exists between a new case/death and its inclusion in statistics. This also means that negative values in cases and deaths can sometimes appear when a country corrects historical data, because it had previously overestimated the number of cases/deaths. Alternatively, large changes can sometimes (although rarely) be made to a country's entire time series if JHU decides (and has access to the necessary data) to correct values retrospectively.
+Hospitalizations and intensive care unit (ICU) admissions: our data is collected from official sources and collated by Our World in Data. The complete list of country-by-country sources is available here.
+Testing for COVID-19: this data is collected by the Our World in Data team from official reports; you can find further details in our post on COVID-19 testing, including our checklist of questions to understand testing data, information on geographical and temporal coverage, and detailed country-by-country source information. The testing dataset is updated around twice a week.
+Vaccinations against COVID-19: this data is collected by the Our World in Data team from official reports.
+Other variables: this data is collected from a variety of sources (United Nations, World Bank, Global Burden of Disease, Blavatnik School of Government, etc.). More information is available in our codebook.
+
 
 
 
