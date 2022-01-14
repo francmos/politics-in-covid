@@ -32,7 +32,7 @@ How to cite this variable: All visualizations, data, and code produced by Our Wo
 - **TRUST IN GOVERNMENT**: Trust in government refers to the share of people who report having confidence in the national government. The data shown reflect the share of respondents answering “yes” (the other response categories being “no”, and “don’t know”) to the survey question: “In this country, do you have confidence in… national government? Due to small sample sizes, country averages for horizontal inequalities (by age, gender and education) are pooled between 2010-18 to improve the accuracy of the estimates. The sample is ex ante designed to be nationally representative of the population aged 15 and over. This indicator is measured as a percentage of all survey respondents.
 *Source*: **OECD DATA** https://data.oecd.org/gga/trust-in-government.htm.
 How to cite this variable: OECD (2022), Trust in government (indicator). doi: 10.1787/1de9675e-en (Accessed on 14 January 2022).
-**TYPE OF VARIABLE**: **DISCRETE VARIABLE?**.
+**TYPE OF VARIABLE**: **CONTINUOS VARIABLE?**.
 
 - **GOVERNEMENT TYPE**: divides OECD countries according to different types of government. 7 are the categories: 1) Parliamentary Monarchy; 2) Parliamentary Republic; 3) Directorial Republic; 4) Semi-presidential Republic; 5) Presidential Republic; 6) Mixed Parliamentary Republic; 7) One-party Socialist Republic.
 **TYPE OF VARIABLE**: **CATEGORICAL VARIABLE**.
