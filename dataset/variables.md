@@ -19,7 +19,7 @@ How to cite this variable: Kaufmann, Daniel, Aart Kraay and Massimo Mastruzzi (2
 - **HEALTHCARE EXPENDITURE**: measures the final consumption of health care goods and services (i.e. current health expenditure) including personal health care (curative care, rehabilitative care, long-term care, ancillary services and medical goods) and collective services (prevention and public health services as well as health administration), but excluding spending on investments. Health care is financed through a mix of financing arrangements including government spending and compulsory health insurance (“Government/compulsory”) as well as voluntary health insurance and private funds such as households’ out-of-pocket payments, NGOs and private corporations (“Voluntary”). This indicator is presented as a total and by type of financing (“Government/compulsory”, “Voluntary”, “Out-of-pocket”) and is measured as a share of GDP, as a share of total health spending and in USD per capita (using economy-wide PPPs).
 *Source*: **OECD DATA** https://data.oecd.org/healthres/health-spending.htm
 How to cite this variable: OECD (2022), Health spending (indicator). doi: 10.1787/8643de7e-en (Accessed on 14 January 2022).
-**TYPE OF VARIABLE**:**CONTINUOS OR DISCRETE VARIABLE?**.
+**TYPE OF VARIABLE**:**CONTINUOS VARIABLE**.
 
 - **NUMBER OF ARRIVALS**: international inbound tourists (overnight visitors) are the number of tourists who travel to a country other than that in which they have their usual residence, but outside their usual environment, for a period not exceeding 12 months and whose main purpose in visiting is other than an activity remunerated from within the country visited. When data on number of tourists are not available, the number of visitors, which includes tourists, same-day visitors, cruise passengers, and crew members, is shown instead. Sources and collection methods for arrivals differ across countries. In some cases data are from border statistics (police, immigration, and the like) and supplemented by border surveys. In other cases data are from tourism accommodation establishments. For some countries number of arrivals is limited to arrivals by air and for others to arrivals staying in hotels. Some countries include arrivals of nationals residing abroad while others do not. Caution should thus be used in comparing arrivals across countries. The data on inbound tourists refer to the number of arrivals, not to the number of people traveling. Thus a person who makes several trips to a country during a given period is counted each time as a new arrival.
 *Source*: **World Tourism Organization, Yearbook of Tourism Statistics, Compendium of Tourism Statistics and data files**.
@@ -32,33 +32,33 @@ How to cite this variable: All visualizations, data, and code produced by Our Wo
 - **TRUST IN GOVERNMENT**: Trust in government refers to the share of people who report having confidence in the national government. The data shown reflect the share of respondents answering “yes” (the other response categories being “no”, and “don’t know”) to the survey question: “In this country, do you have confidence in… national government? Due to small sample sizes, country averages for horizontal inequalities (by age, gender and education) are pooled between 2010-18 to improve the accuracy of the estimates. The sample is ex ante designed to be nationally representative of the population aged 15 and over. This indicator is measured as a percentage of all survey respondents.
 *Source*: **OECD DATA** https://data.oecd.org/gga/trust-in-government.htm.
 How to cite this variable: OECD (2022), Trust in government (indicator). doi: 10.1787/1de9675e-en (Accessed on 14 January 2022).
-**TYPE OF VARIABLE**: **CONTINUOS VARIABLE?**.
+**TYPE OF VARIABLE**: **CONTINUOS VARIABLE**.
 
 - **GOVERNEMENT TYPE**: divides OECD countries according to different types of government. 7 are the categories: 1) Parliamentary Monarchy; 2) Parliamentary Republic; 3) Directorial Republic; 4) Semi-presidential Republic; 5) Presidential Republic; 6) Mixed Parliamentary Republic; 7) One-party Socialist Republic.
 **TYPE OF VARIABLE**: **CATEGORICAL VARIABLE**.
 
 - **POPULATION**: Population (latest available values). See https://github.com/owid/covid-19-data/blob/master/scripts/input/un/population_latest.csv for full list of sources.The population estimates we use to calculate per-capita metrics are based on the last revision of the United Nations World Population Prospects. The exact values can be viewed here. In a few cases, we use other sources (see column source in the population file) when the figures provided by the UN differ substantially from reliable and more recent national estimates. Population estimates for a few subnational locations are taken from national reports, and are stored here.
 
-**TYPE OF VARIABLE**:**DISCRETE VARIABLE**?
+**TYPE OF VARIABLE**:**DISCRETE VARIABLE**
 
 - **POPULATION DENSITY**: Number of people divided by land area, measured in square kilometers, most recent year available.
-**TYPE OF VARIABLE**:**DISCRETE VARIABLE?**:
+**TYPE OF VARIABLE**:**CONTINUOUS VARIABLE?**:
 
 - **MEDIAN AGE**: Median age of the population, UN projection for 2020.
-**TYPW OF VARIABLE**: 
+**TYPE OF VARIABLE**: **DISCRETE VARIABLE**.
 
 - **GDP PER CAPITA**: Gross domestic product at purchasing power parity (constant 2011 international dollars), most recent year available.
-**TYPE OF VARIABLE**: 
+**TYPE OF VARIABLE**: **CONTINUOUS VARIABLE**.
 
 _ **NEW CASES**: New confirmed cases of COVID-19
-**TYPE OF VARIABLE**: 
+**TYPE OF VARIABLE**: **DISCRETE VARIABLE**.
 
 - **NEW DEATHS**: New deaths attributed to COVID-19
-**TYPE OF VARIABLE**:
+**TYPE OF VARIABLE**: **DISCRETE VARIABLE**.
 
 - **NEW TESTS**: New tests for COVID-19 (only calculated for consecutive days)
 How to cite this variable: Hasell, J., Mathieu, E., Beltekian, D. et al. A cross-country database of COVID-19 testing. Sci Data 7, 345 (2020). https://doi.org/10.1038/s41597-020-00688-8
-**TYPE OF VARIABLE**: 
+**TYPE OF VARIABLE**: **DISCRETE VARIABLE**.
 
 - **ICU PATIENTS**: Number of COVID-19 patients in intensive care units (ICUs) on a given day
 **TYPE OF VARIABLE: **DISCRETE VARIABLE**.
