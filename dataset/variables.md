@@ -27,9 +27,17 @@ How to cite this variable: OECD (2022), Health spending (indicator). doi: 10.178
 - **POLITICAL REGIME**: The variable identifies the political regime of a country using the Regimes of the World classification by political scientists Anna Lührmann, Marcus Tannenberg and Staffan Lindberg. It distinguishes between closed autocracies (score 0), electoral autocracies (score 1), electoral democracies (score 2), and liberal democracies (score 3).
 *Source*: **Our World in Data, Bastian Herre,data comes from the Varieties of Democracy project (v11.1), using Lührmann et al's (2018) Regimes of the World classification, and own expansions and refinements**. https://ourworldindata.org/regimes-of-the-world-data https://www.v-dem.net/en/data/data/v-dem-dataset-v111/.
 How to cite this variable: All visualizations, data, and code produced by Our World in Data are completely open access under the Creative Commons BY license. You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.The data produced by third parties and made available by Our World in Data is subject to the license terms from the original third-party authors. We will always indicate the original source of the data in our documentation, so you should always check the license of any such third-party data before use and redistribution.
-**TYPE OF VARIABLE**:CATEGORICAL VARIABLE**.
+**TYPE OF VARIABLE**:**CATEGORICAL VARIABLE**.
 
-- **TRUST IN GOVERNANCE**: 
+- **TRUST IN GOVERNMENT**: Trust in government refers to the share of people who report having confidence in the national government. The data shown reflect the share of respondents answering “yes” (the other response categories being “no”, and “don’t know”) to the survey question: “In this country, do you have confidence in… national government? Due to small sample sizes, country averages for horizontal inequalities (by age, gender and education) are pooled between 2010-18 to improve the accuracy of the estimates. The sample is ex ante designed to be nationally representative of the population aged 15 and over. This indicator is measured as a percentage of all survey respondents.
+*Source*: **OECD DATA** https://data.oecd.org/gga/trust-in-government.htm.
+How to cite this variable: OECD (2022), Trust in government (indicator). doi: 10.1787/1de9675e-en (Accessed on 14 January 2022).
+**TYPE OF VARIABLE**: **DISCRETE VARIABLE?**.
+
+- **GOVERNEMENT TYPE**:divides OECD countries according to different types of government. 7 are the categories: 1) Parliamentary Monarchy; 2) Parliamentary Republic; 3) Directorial Republic; 4) Semi-presidential Republic; 5) Presidential Republic; 6) Mixed Parliamentary Republic; 7) One-party Socialist Republic.
+**TYPE OF VARIABLE**: **CATEGORICAL VARIABLE**.
+
+- **
 
 
 
