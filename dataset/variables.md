@@ -34,7 +34,7 @@ How to cite this variable: All visualizations, data, and code produced by Our Wo
 How to cite this variable: OECD (2022), Trust in government (indicator). doi: 10.1787/1de9675e-en (Accessed on 14 January 2022).
 **TYPE OF VARIABLE**: **CONTINUOS VARIABLE**.
 
-- **GOVERNEMENT TYPE**: divides OECD countries according to different types of government. 7 are the categories: 1) Parliamentary Monarchy; 2) Parliamentary Republic; 3) Directorial Republic; 4) Semi-presidential Republic; 5) Presidential Republic; 6) Mixed Parliamentary Republic; 7) One-party Socialist Republic.
+- **GOVERNEMENT TYPE**: divides OECD countries according to different types of government. 6 are the categories: 1) Parliamentary Monarchy; 2) Parliamentary Republic; 3) Directorial Republic; 4) Semi-presidential Republic; 5) Presidential Republic; 6) Mixed Parliamentary Republic;
 **TYPE OF VARIABLE**: **CATEGORICAL VARIABLE**.
 
 - **POPULATION**: Population (latest available values). See https://github.com/owid/covid-19-data/blob/master/scripts/input/un/population_latest.csv for full list of sources.The population estimates we use to calculate per-capita metrics are based on the last revision of the United Nations World Population Prospects. The exact values can be viewed here. In a few cases, we use other sources (see column source in the population file) when the figures provided by the UN differ substantially from reliable and more recent national estimates. Population estimates for a few subnational locations are taken from national reports, and are stored here.
